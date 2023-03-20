@@ -3,6 +3,6 @@ Esta es la historia de Samuel Juarez
 Tengo 23 anios y vivo en Mexico
 En el estado de Queretaro
 
-Me encuentro estudiando python
+Me encuentro estudiando python y git
 
 Es muy guapo y nalgon
