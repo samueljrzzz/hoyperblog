@@ -5,6 +5,8 @@ En el estado de Queretaro
 
 Me encuentro estudiando python y git
 
+Anita Platzi tiene 41 anios y nacio en Internet
+
 Es muy guapo y nalgon
 
 De regreso a la version master gracias a checkout
