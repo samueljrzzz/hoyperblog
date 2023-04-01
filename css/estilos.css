@@ -1,6 +1,6 @@
 body{
-    background:#1e1f24;
-    color:#333;
+    background: #1e1f24;
+    color: white;
     text-align:center;
     font-family:Arial;
     font-size:16px;
@@ -39,9 +39,15 @@ body{
 #container h1{
     font-size:20px
 }
-
-#post{
-    background:#fff;
+#post
+{
     padding:1em
+}
 
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
 }
